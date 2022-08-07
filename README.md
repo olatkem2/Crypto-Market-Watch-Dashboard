@@ -53,11 +53,11 @@ Step 11. Background Design was done in Power Point, with a combo of Shapes, Text
 
 Step 12. Metrics and Visuals Definition, Design and Development in Power BI
 
-You can interacte with the Tool by suing this url: <<Crypto Market Watch>>
+You can interacte with the Tool by suing this url: [Crypto Market Watch](https://app.powerbi.com/view?r=eyJrIjoiMzkzMTAwN2MtMWIyOC00NWU3LThjNTQtNDM4YzhmNTRjNDQzIiwidCI6IjNiZGFjNmEwLWVlNDYtNDQzMC05OGFiLWZiNTJmYTI2MWMyOCIsImMiOjl9)
 
 ![Crypto Market Watch Image](https://user-images.githubusercontent.com/90919070/183308433-81a65dc6-5817-4025-9dd8-633cd48f987e.JPG)
   
 Thank you for taking out time to go through this piece, I hope it has been a time well spent. Thank you once again.
 
-You can reach me via <<Olatkem@gmail.com>>
+You can reach me via [Olatkem@gmail.com](Olatkem@gmail.com)
 
